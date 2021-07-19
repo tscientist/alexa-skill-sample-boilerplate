@@ -1,0 +1,75 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "modelo basico",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "olá",
+            "como vai você",
+            "diga oi mundo",
+            "diga oi",
+            "oi",
+            "diga olá mundo",
+            "diga olá"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": [
+            "isso mesmo",
+            "isso",
+            "yes",
+            "dale",
+            "pode confirmar",
+            "pode",
+            "pode ser",
+            "desejo",
+            "aham",
+            "quero",
+            "sim quero",
+            "sim gostaria",
+            "claro",
+            "sim pode",
+            "sim pode confirmar"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": [
+            "não quero",
+            "não não gostaria",
+            "negativo",
+            "nop",
+            "não não pode",
+            "não não pode confirmar"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}
