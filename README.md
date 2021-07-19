@@ -1,27 +1,16 @@
-# skill-sample-basic-architecture
+# Skill sample boilerplate
 
 Folder architecture model for a basic skill
+### Installation
 
+Install the dependencies and start the server.
 
-# Instalação inicial.
-No prompt de comando, entrar na pasta lambda e instalar as dependencias
+```sh
+npm install
+```
 
-$ npm install
+### Tech
 
-
-## **** CASO O VSCODE NÃO ESTEJA CONFIGURADO ****
-## instalar extensões no VsCode
-eslint
-prettier
-EditorConfig
-
-
-## configurar prettier no vscode para ler o arquivo de configuração eslint
-# Abrir configurações
-    ctrl + p
-# Entrar em Settings
->settings => preferences: Open Settings (JSON)
-# Seta true para format on save
-"editor.formatOnSave": true
-# Adiciona abaixo a configuração prettier
- "prettier.eslintIntegration": true
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
