@@ -1,4 +1,4 @@
-# Skill sample boilerplate
+# Alexa Skill sample boilerplate
 
 Folder architecture model for a basic skill
 ### Installation
